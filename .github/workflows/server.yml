@@ -1,4 +1,4 @@
-name: Minecraft Server
+name: DuyiSMP
 
 on:
   workflow_dispatch:
